@@ -1,0 +1,20 @@
+*{
+    color: rgb(0, 255, 4);
+    font-family: Google Sans Flex;
+}
+
+
+p{
+    color:rgb(117, 229, 244);
+}
+
+.red-color{
+    color: red;
+}
+.blue-color{
+    color: blue;
+}
+#num4{
+    color: yellow;
+}
+
